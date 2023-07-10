@@ -1,0 +1,6 @@
+coloredlogs
+landlab
+numpy
+xarray
+tqdm
+git+https://gitlab.com/cw_code/lpjguesstools.git#egg=lpjguesstools
